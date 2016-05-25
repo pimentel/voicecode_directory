@@ -24,4 +24,4 @@ If you would like to add your self, please make a pull request.
 - Sound card: SpeechMatic USB MultiAdapter
 - Pointer: Smartnav
 - Clicker: Savant elite 3 button, 3M Ergonomic Mouse
-- [My Voicecode Profile Page](https://github.com/yellownoggin/toolbox/tree/master/dotfiles/voicecode)
+- [My Voicecode Profile Page on Github](https://github.com/yellownoggin/toolbox/tree/master/dotfiles/voicecode)
