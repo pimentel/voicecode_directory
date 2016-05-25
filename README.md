@@ -13,3 +13,15 @@ If you would like to add your self, please make a pull request.
 - Sound card: SpeechMatic USB MultiAdapter
 - Pointer: Smartnav
 - Clicker: Savant elite 3 button
+
+### Jamie (John) Hennelly
+
+- [Configuration on Github](https://github.com/yellownoggin/toolbox/tree/master/dotfiles/voicecode/commando)
+- Main editor: Atom
+- Main languages: Javascript(& Typescript), Java
+- Computer: Macbook Pro (13-inch, Mid 2012), 16 gigabytes of RAM
+- Microphone: Sennheiser ME 3-EW headset
+- Sound card: SpeechMatic USB MultiAdapter
+- Pointer: Smartnav
+- Clicker: Savant elite 3 button & 3M Ergonomic Mouse
+- [My Voicecode Profile Page on Github](https://github.com/yellownoggin/toolbox/tree/master/dotfiles/voicecode)
