@@ -13,3 +13,9 @@ If you would like to add your self, please make a pull request.
 - Sound card: SpeechMatic USB MultiAdapter
 - Pointer: Smartnav
 - Clicker: Savant elite 3 button
+
+### Jamie (John) Hennelly
+
+- Slack handle: @jjhennelly
+- [Configuration on Github](https://github.com/yellownoggin/toolbox/tree/master/dotfiles/voicecode/commando)
+- [My Voicecode Profile Page on Github](https://github.com/yellownoggin/toolbox/tree/master/dotfiles/voicecode)
