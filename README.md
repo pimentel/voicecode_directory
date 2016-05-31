@@ -24,3 +24,9 @@ If you would like to add your self, please make a pull request.
 - Microphone: Sennheiser ME 3-ew, plus [adapter](https://store.speechrecsolutions.com/6-inch-me3-adapter-p12.aspx)
 - Sound card: Zoom H2N
 - Pointer: Apple Magic Mouse
+
+### Jamie (John) Hennelly
+
+- Slack handle: @jjhennelly
+- [Configuration on Github](https://github.com/yellownoggin/toolbox/tree/master/dotfiles/voicecode/commando)
+- [My Voicecode Profile Page on Github](https://github.com/yellownoggin/toolbox/tree/master/dotfiles/voicecode)
