@@ -33,12 +33,12 @@ If you would like to add your self, please make a pull request.
 
 ### Naomi Saphra
 - Slack handle: @nsaphra
-- [Configuration on Github](https://github.com/nsaphra/dotfiles/tree/master/voicecode/commando)
-- Dragon version: 5
+- [Configuration on Github](https://github.com/nsaphra/dotfiles/tree/master/voicecode)
+- Dragon version: 6
 - Main editor: Atom
 - Main languages: Python (including TensorFlow), Julia, C, LaTeX
 - Computer: MacBook Air (13-inch, Mid 2013), 8 gigabytes of RAM
-- OS: 10.11.5 (El Capitan)
+- OS: OSX El Capitan
 - Microphone: Sennheiser ME 3-EW headset EW microphone
 - Sound card: Andrea USB-MA
 - Pointer: Trackpad
