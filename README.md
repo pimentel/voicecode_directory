@@ -17,7 +17,7 @@ If you would like to add your self, please make a pull request.
 ### Jimmy Thrasher
 
 - Nick on Slack: @jjthrash
-- Configuration on GitHub
+- [Configuration on GitHub](https://github.com/jjthrash/voicecode-settings)
 - Main editor: Atom when VoiceCoding, [Kakoune](https://github.com/mawww/kakoune) when typing
 - Main languages: Ruby, Objective-C, Swift, Javascript
 - Computer: MacBook Pro (Retina, 15-inch, Mid 2015), 16 gigabytes of RAM
