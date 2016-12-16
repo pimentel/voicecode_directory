@@ -5,7 +5,8 @@ If you would like to add your self, please make a pull request.
 
 ### Harold Pimentel
 
-- [Configuration on GitHub](https://github.com/pimentel/dotfiles/tree/master/voicecode/commando)
+- Slack handle: @hjp
+- [Configuration on GitHub](https://github.com/pimentel/voicecode-settings)
 - Main editor: Atom
 - Main languages: R, Python, C++
 - Computer: MacBook Pro (Retina, 13-inch, Late 2013), 16 gigabytes of RAM
