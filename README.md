@@ -1,7 +1,7 @@
 # VoiceCode directory
 
-A simple place to point to peoples configuration files.
-If you would like to add your self, please make a pull request.
+A simple place to point to people's configuration files.
+If you would like to add yourself, please make a pull request.
 
 ### Harold Pimentel
 
@@ -49,3 +49,16 @@ If you would like to add your self, please make a pull request.
     - Generic American accent, originally New York, occasional Scottish vowels due to currently living there
     - Female
     - High vocal fry, somewhat nasal voice
+    
+### Alex Jacobs
+- Slack handle: @lexjacobs
+- [Configuration on Github](https://github.com/lexjacobs/voicecode-settings)
+- Dragon version: 6
+- Main editor: Atom
+- Main language: JavaScript
+- Computer: MacBook Pro (Retina, 15-inch, Mid 2014), 16 gigabytes of RAM
+- OS: macOS Sierra
+- Microphone: Sennheiser ME 3-ew
+- Sound card: SpeechMatic USB MultiAdapter
+- Pointer: SmartNav
+- Clicker: Savant elite 3 button
